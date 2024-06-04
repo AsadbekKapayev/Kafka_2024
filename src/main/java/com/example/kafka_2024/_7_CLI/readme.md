@@ -75,3 +75,4 @@ kafka-consumer-groups.sh --bootstrap-server localhost:9092 --group my-first-appl
 ``` consumer group reset execute
 kafka-consumer-groups.sh --bootstrap-server localhost:9092 --group my-first-application --reset-offsets --to-earliest --topic first --execute
 ```
+
